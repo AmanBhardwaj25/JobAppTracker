@@ -79,21 +79,6 @@ Approve all required scopes.
 1. Run `createJobSyncTrigger_10min()` once to create a time based trigger.
 2. The sync will run every 10 minutes.
 
-## 8. Local Git setup for this repo
-
-This folder is initialized as a Git repository and linked to:
-
-```text
-https://github.com/AmanBhardwaj25/JobAppTracker.git
-```
-
-Use these commands to publish:
-
-```bash
-git add .
-git commit -m "Initial JobAppTracker setup"
-git push -u origin main
-```
 
 ## Operational notes
 
